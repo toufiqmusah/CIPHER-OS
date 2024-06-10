@@ -24,7 +24,7 @@ Feel free to fork this project and contribute to its development. Pull requests 
 [MIT License](LICENSE.txt)
 
 ## Authors
-- Toufiq – [YourGitHub](https://github.com/toufiqmusah)
+- Toufiq – https://github.com/toufiqmusah
 - Federal - https://github.com/Federal-Sedinam
 
 ## Acknowledgments
